@@ -1,0 +1,8 @@
+first create your object that has to match your database schema
+then create your database connection in a separate file
+create an interface that will hold all the method that you will use fro the CRUD OPERATION
+then create a class that implements that interface
+that is where all the CRUD operation is carried out
+now go to the main program create an instance of the class that implements the interface
+then call its method when required and pass in the required parameter
+all is an attempt to archive abstraction
